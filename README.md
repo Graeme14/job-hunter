@@ -1,2 +1,2 @@
-# job-hunter
+# the-job-hunter
 Developing coding skills
